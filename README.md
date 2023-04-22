@@ -6,4 +6,4 @@ Make sure you have adb (android debug tools) installed, and have your phone conn
 
 This script doesn't require root, and doesn't actually remove the packages from your system, only from your user (user 0) so they won't be loaded anymore.
 
-The goal of this is to replace all of my default Samsung, Google, and Verizon applications with FOSS applications from the F-Droid repositories.
+The goal of this is to replace all of my default Samsung, Google, and Verizon applications with FOSS applications from the F-Droid repositories. Once I get more time I'll add a list to the README of all of the free software that I use.
