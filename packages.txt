@@ -8,4 +8,5 @@ com.sec.android.app.sbrowser
 com.samsung.android.samsungpass
 com.samsung.android.samsungpassautofill
 com.samsung.android.app.reminder
-com.sec.android.app.samsungapps
+com.sec.android.app.samsungapp
+com.google.android.gm
